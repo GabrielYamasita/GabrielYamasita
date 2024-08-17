@@ -1,13 +1,13 @@
 
 Hello!
 
-With +5 years of experience with BI projects as a BI Analyst, I am currently studying and evolving in the Data Engineering area, which I enjoy the most!
+With +5 years of experience with Business Intelligence and Data Analytics, I am currently specializing in Data Engineering, which is the field I enjoy the most!
 
-My experience comes from BI projects for brazilian agribusiness companies, attending business areas such as commercial, financial, seeds industries, and some campaigns like shelf-share, CRM and others.
+My experience comes from BI and Analytics projects for brazilian agribusiness companies, attending business areas such as commercial, financial, seeds industries, and some campaigns like shelf-share, CRM and others.
 
 Most repositories will contain personal projects where I apply my knowledge of the technologies that I'm studying or applying in my current job.
 
-Currently I'm a BI Consultant / BI Engineer in KZN Group.
+Currently I'm a BI Engineer in KZN Group.
 
 Feel free to contact me on Linked-In.
 
@@ -19,12 +19,12 @@ Feel free to contact me on Linked-In.
 
 <div align="center">
 
-### Technologies Used Professionaly
+### Technologies Used in Real Projects
 
   
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/Pandas-14354C?style=for-the-badge&logo=pandas&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white&logoColor=white)
@@ -41,6 +41,7 @@ Feel free to contact me on Linked-In.
 ![svn](https://img.shields.io/badge/SVN-2CA5E0?style=for-the-badge&logo=svn&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-017CEE?style=for-the-badge&logo=docker&logoColor=white) 
 ![powershell](https://img.shields.io/badge/powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 <div align="center">
 
@@ -52,7 +53,6 @@ Feel free to contact me on Linked-In.
 ![kafka](https://img.shields.io/badge/Apache%20Kafka-FFFFFF?style=for-the-badge&logo=apache-kafka&logoColor=black)
 ![parquet](https://img.shields.io/badge/Apache%20Parquet-2CA5E0?style=for-the-badge&logo=apacheparquet&logoColor=white)
 ![databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
-![airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![hadoop](https://img.shields.io/badge/Apache%20hadoop-FFFFFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![nifi](https://img.shields.io/badge/Apache%20nifi-808080?style=for-the-badge&logo=nifi&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
