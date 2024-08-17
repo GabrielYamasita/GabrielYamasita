@@ -7,7 +7,7 @@ My experience comes from BI and Analytics projects for brazilian agribusiness co
 
 Most repositories will contain personal projects where I apply my knowledge of the technologies that I'm studying or applying in my current job.
 
-Currently I'm a BI Engineer in KZN Group.
+Currently I'm a BI Engineer in KZN Group / AGRODB Analytics.
 
 Feel free to contact me on Linked-In.
 
@@ -29,6 +29,7 @@ Feel free to contact me on Linked-In.
 ![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white&logoColor=white)
 ![Redshift](https://img.shields.io/badge/Redshift-017CEE?style=for-the-badge&logo=AWS-Redshift&logoColor=white&logoColor=white)
+![Apache Hop](https://img.shields.io/badge/Apache%20hop-808080?style=for-the-badge&logo=hop&logoColor=white)
 ![Pentaho](https://img.shields.io/badge/Pentaho-005C84?style=for-the-badge&logo=hitachi&logoColor=white)
 ![Qlik](https://img.shields.io/badge/-Qlik-009848?style=for-the-badge&logo=qlik&logoColor=white)
 ![powerbi](https://img.shields.io/badge/Power%20BI-FCC624?style=for-the-badge&logo=Power%20BI&logoColor=white)
