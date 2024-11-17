@@ -3,7 +3,7 @@ Hello!
 
 With +5 years of experience with Business Intelligence and Data Analytics, I am currently specializing in Data Engineering, which is the field I enjoy the most!
 
-My experience comes from BI and Analytics projects for brazilian agribusiness companies, attending business areas such as commercial, financial, seeds industries, and some campaigns like shelf-share, CRM and others.
+My experience comes from BI and Analytics projects for brazilian agribusiness companies, attending business areas such as commercial, financial, seeds industries, also developing BI reports and dataviz for campaigns like Shelf-Share, CRM, Market-Share and others.
 
 Most repositories will contain personal projects where I apply my knowledge of the technologies that I'm studying or applying in my current job.
 
@@ -33,7 +33,10 @@ Feel free to contact me on Linked-In.
 ![Pentaho](https://img.shields.io/badge/Pentaho-005C84?style=for-the-badge&logo=hitachi&logoColor=white)
 ![Qlik](https://img.shields.io/badge/-Qlik-009848?style=for-the-badge&logo=qlik&logoColor=white)
 ![powerbi](https://img.shields.io/badge/Power%20BI-FCC624?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![powerbiapi](https://img.shields.io/badge/Power%20BI%20APIs-FCC624?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![aws](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white)
+![streamlit](https://img.shields.io/badge/Streamlit-CC2927?style=for-the-badge&logo=streamlit&logoColor=white)
+![Google APIs](https://img.shields.io/badge/Google%20Cloud%20APIs-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![sharepoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
